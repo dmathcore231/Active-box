@@ -34,8 +34,8 @@ body {
 
 .btn__item {
   font-weight: 900;
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
   text-transform: uppercase;
   color: #fff;
   background-color: #FF4343;
@@ -73,8 +73,8 @@ body {
 
 .nav-bar__link {
   color: #fff;
-  font-size: 13px;
-  line-height: 15px;
+  font-size: 0.813rem;
+  line-height: 0.938rem;
   font-weight: 700;
   text-transform: uppercase;
   padding: 6.5px 34.5px 40.5px 34.5px;
@@ -110,8 +110,8 @@ body {
 
 .header__title {
   font-weight: 900;
-  font-size: 64px;
-  line-height: 75px;
+  font-size: 4rem;
+  line-height: 4.688rem;
   text-transform: uppercase;
   color: #fff;
 }
@@ -128,8 +128,8 @@ body {
 }
 
 .header__description {
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
   color: #fff;
 }
 
@@ -157,8 +157,8 @@ body {
 .card__title {
   color: #2D3033;
   font-weight: 900;
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
   text-transform: uppercase;
 }
 
@@ -171,8 +171,8 @@ body {
 
 .description {
   color: #6C7279;
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 1.125rem;
+  line-height: 1.313rem;
 }
 
 /*------gallery-----*/
@@ -201,16 +201,16 @@ body {
   border: 2px solid #FFFFFF;
   display: none;
   font-weight: 900;
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
   text-transform: uppercase;
   color: #fff;
   gap: 37px;
 }
 
 .gallery__post-title {
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 1.125rem;
+  line-height: 1.313rem;
   text-transform: capitalize;
 }
 
@@ -266,8 +266,8 @@ body {
 
 .card-developer__post-title {
   color: #FF4343;
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 1.5rem;
+  line-height: 1.313rem;
   text-transform: uppercase;
 }
 
@@ -346,16 +346,16 @@ body {
 
 .carousel-text__title {
   font-family: 'Cardo', serif;
-  font-size: 36px;
-  line-height: 49px;
+  font-size: 2.25rem;
+  line-height: 3.063rem;
   text-align: left;
   text-transform: capitalize;
 }
 
 .carousel-text__post-title {
   font-weight: 700;
-  font-size: 13px;
-  line-height: 15px;
+  font-size: 0.813rem;
+  line-height: 0.938rem;
   text-align: left;
   text-transform: uppercase;
 }
@@ -368,14 +368,14 @@ body {
 
 .download-box__title {
   font-weight: 500;
-  font-size: 30px;
-  line-height: 35px;
+  font-size: 1.875rem;
+  line-height: 2.188rem;
 }
 
 .download-box__text {
   font-weight: 700;
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 1.125rem;
+  line-height: 1.313rem;
   text-transform: uppercase;
   padding-bottom: 50px;
 }
@@ -406,8 +406,8 @@ body {
 .footer-cover__col {
   width: 33%;
   color: #fff;
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 1.125rem;
+  line-height: 1.313rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -433,8 +433,8 @@ body {
 
 .footer-text {
   color: #808080;
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 1.125rem;
+  line-height: 1.313rem;
   text-transform: capitalize;
   max-width: 370px;
   text-align: center;
@@ -442,8 +442,8 @@ body {
 
 .footer-text span {
   color: #fff;
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 1.125rem;
+  line-height: 1.313rem;
 }
 
 /*-----hamburger menu----*/
@@ -473,8 +473,8 @@ body {
   /*----nav-bar---*/
 
   .nav-bar__link {
-    font-size: 12px;
-    line-height: 14px;
+    font-size: 0.75rem;
+    line-height: 0.875rem;
     padding: 6.5px 26px 40.5px 26px;
   }
 
@@ -485,8 +485,8 @@ body {
   /*----header----*/
 
   .header__title {
-    font-size: 48px;
-    line-height: 56px;
+    font-size: 3rem;
+    line-height: 3.5rem;
   }
 
   .header__wrapper {
@@ -498,8 +498,8 @@ body {
   }
 
   .header__description {
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.125rem;
+    line-height: 1.313rem;
   }
 
   .btn_header {
@@ -519,8 +519,8 @@ body {
   }
 
   .card__title {
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.125rem;
+    line-height: 1.313rem;
   }
 
   .card__text {
@@ -528,8 +528,8 @@ body {
   }
 
   .description {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
   }
 
   /*------gallery-----*/
@@ -539,14 +539,14 @@ body {
   }
 
   .gallery__title {
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.125rem;
+    line-height: 1.313rem;
     gap: 22px;
   }
 
   .gallery__post-title {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
   }
 
   /*-----post-middle----*/
@@ -556,13 +556,13 @@ body {
   }
 
   .card-developer__title {
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.125rem;
+    line-height: 1.313rem;
   }
 
   .card-developer__post-title {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
   }
 
   .card-developer__wrapper {
@@ -586,13 +586,13 @@ body {
   }
 
   .carousel-text__title {
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 
   .carousel-text__post-title {
-    font-size: 11px;
-    line-height: 14px;
+    font-size: 0.688rem;
+    line-height: 0.875rem;
   }
 
   /*------download-box----*/
@@ -606,13 +606,13 @@ body {
   }
 
   .download-box__title {
-    font-size: 24px;
-    line-height: 28px;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
   }
 
   .download-box__text {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
     padding-bottom: 45px;
   }
 
@@ -623,8 +623,8 @@ body {
   }
 
   .footer-cover__col {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
     gap: 15px;
   }
 
@@ -637,14 +637,14 @@ body {
   }
 
   .footer-text {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
     max-width: 314px;
   }
 
   .footer-text span {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
   }
 }
 
@@ -683,8 +683,8 @@ body {
   }
 
   .header__title {
-    font-size: 36px;
-    line-height: 42px;
+    font-size: 2.25rem;
+    line-height: 2.625rem;
   }
 
   .header__wrapper {
@@ -696,8 +696,8 @@ body {
   }
 
   .header__description {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
   }
 
   .btn_header {
@@ -718,8 +718,8 @@ body {
   }
 
   .card__title {
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.125rem;
+    line-height: 1.313rem;
   }
 
   .card__text {
@@ -727,8 +727,8 @@ body {
   }
 
   .description {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
   }
 
   /*------gallery-----*/
@@ -752,13 +752,13 @@ body {
   }
 
   .card-developer__title {
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.125rem;
+    line-height: 1.313rem;
   }
 
   .card-developer__post-title {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
   }
 
   .card-developer__wrapper {
@@ -781,14 +781,14 @@ body {
   }
 
   .carousel-text__title {
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 1.5rem;
+    line-height: 2rem;
     text-align: center;
   }
 
   .carousel-text__post-title {
-    font-size: 12px;
-    line-height: 14px;
+    font-size: 0.75rem;
+    line-height: 0.875rem;
   }
 
   .carousel__wrapper {
@@ -822,13 +822,13 @@ body {
   }
 
   .download-box__title {
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.125rem;
+    line-height: 1.313rem;
   }
 
   .download-box__text {
-    font-size: 13px;
-    line-height: 15px;
+    font-size: 0.813rem;
+    line-height: 0.938rem;
     padding-bottom: 15px;
   }
 
@@ -844,8 +844,8 @@ body {
 
   .footer-cover__col {
     width: 100%;
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
     gap: 35px;
   }
 
@@ -858,15 +858,15 @@ body {
   }
 
   .footer-text {
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
     max-width: 280px;
   }
 
   .footer-text span {
     color: #fff;
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 0.875rem;
+    line-height: 1rem;
   }
 }
 

@@ -528,7 +528,6 @@ body {
   }
 
   .description {
-    color: #6C7279;
     font-size: 14px;
     line-height: 16px;
   }
@@ -868,5 +867,45 @@ body {
     color: #fff;
     font-size: 14px;
     line-height: 16px;
+  }
+}
+
+@media (max-width: 576px) {
+
+  .container {
+    max-width: 576px;
+  }
+
+  .container__item {
+    max-width: 480px;
+  }
+
+  .card {
+    max-width: calc(100%);
+  }
+
+  .card-developer {
+    max-width: 100%;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+}
+
+@media (max-width: 320px) {
+
+  .container {
+    max-width: 320px;
+  }
+
+  .container__item {
+    max-width: 280px;
+  }
+
+  .btn__item {
+    padding: 15px 46px 15px 46px;
+  }
+
+  .btn__item_padding_down {
+    padding: 24px 33px 24px 33px;
   }
 }
